@@ -84,7 +84,7 @@ pickle5
 **Krushna Shinde**
 Machine Learning & AI Enthusiast
 
-🔗 GitHub: https://github.com/krushna8767
+🔗 GitHub: [https://github.com/krushna8767](https://github.com/krushna8767)
 
 ---
 
