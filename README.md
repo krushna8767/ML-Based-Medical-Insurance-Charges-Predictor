@@ -77,12 +77,7 @@ numpy
 pandas
 pickle5
 
-```
----
-
-```
-```
----
+``
 
 ## 👨‍💻 Developer
 
@@ -90,7 +85,6 @@ pickle5
 Machine Learning & AI Enthusiast
 
 🔗 GitHub: https://github.com/krushna8767
-
 
 ---
 
