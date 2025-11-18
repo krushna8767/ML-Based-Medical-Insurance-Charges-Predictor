@@ -9,7 +9,7 @@
 
 ## 🔗 Live App
 
-👉 **[https://your-streamlit-app-link](https://loanpredictionproject-tejasgholap.streamlit.app/)**
+👉 **[(https://ml-based-medical-insurance-charges-predictor-krushna-shinde.streamlit.app/)]**
 
 ---
 
@@ -68,38 +68,6 @@ Medical-Insurance-Prediction/
 ├── requirements.txt        # Required dependencies
 └── README.md               # Documentation
 ```
-
----
-
-## 🏁 Run the App Locally
-
-1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/tejasgholap45/Medical-Insurance-Predictor.git
-cd Medical-Insurance-Predictor
-```
-
-2️⃣ Install necessary packages
-
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ Run the Streamlit app
-
-```bash
-streamlit run streamlit_app.py
-```
-
-4️⃣ Open in browser
-
-```
-http://localhost:8501
-```
-
----
-
 ## 📦 requirements.txt
 
 ```
@@ -118,11 +86,11 @@ pickle5
 
 ## 👨‍💻 Developer
 
-**Tejas Gholap**
-MCA Student | Machine Learning & AI Enthusiast
+**Krushna Shinde**
+Machine Learning & AI Enthusiast
 
-🔗 GitHub: [https://github.com/tejasgholap45](https://github.com/tejasgholap45)
-🔗 LinkedIn: [https://www.linkedin.com/in/tejas-gholap-bb3417300/](https://www.linkedin.com/in/tejas-gholap-bb3417300/)
+🔗 GitHub: https://github.com/krushna8767
+
 
 ---
 
