@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Charges Prediction App
+# 🏥 ML-Based Medical Insurance Charges Predictor
 
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit\&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python\&logoColor=white)]()
