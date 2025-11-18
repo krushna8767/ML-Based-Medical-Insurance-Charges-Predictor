@@ -14,15 +14,12 @@ except FileNotFoundError:
 # --- LEFT SIDEBAR (NEW ADDITION) ---
 st.sidebar.title("👨‍💻 Developer Info")
 st.sidebar.markdown("""
-### Tejas Gholap
+### Krushna Shinde
 """)
 
 # Replace the placeholders below with your actual links
 st.sidebar.markdown("""
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tejas-gholap-bb3417300/)
-""")
-st.sidebar.markdown("""
-**GitHub:** [Your GitHub Profile](https://github.com/tejasgholap45)
+**GitHub:** https://github.com/krushna8767
 """)
 st.sidebar.markdown("---")
 # --- END OF SIDEBAR ---
